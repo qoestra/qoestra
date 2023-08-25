@@ -3,11 +3,7 @@
 
 <div align="left">
   
-  <img width="12" />
-  <img src="https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white&style=for-the-badge" height="30" alt="wordpress logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/WooCommerce-96588A?logo=woocommerce&logoColor=white&style=for-the-badge" height="30" alt="woocommerce logo"  />
-</div>
+
 
 ###
 # 💻 Tech Stack:
