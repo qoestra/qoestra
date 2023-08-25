@@ -15,7 +15,7 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 
-### 😂 Random Dev Meme
+### 😂 Dev Memes
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
