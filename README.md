@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on: Bionluk<br><br>🌱 I’m currently learning: Everything :D<br><br>📫 How to reach me: qoestra@gmail.com
+🔭 I’m currently working on: Freelance<br><br>🌱 I’m currently learning: Everything :D<br><br>📫 How to reach me: qoestra@gmail.com
 
 <div align="left">
   
